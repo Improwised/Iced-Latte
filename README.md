@@ -16,20 +16,31 @@
 </div>
 
 ## Table of Contents
+- [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
-- [Github-Stars](#Github-Stars)
-
+  - [🔥 Github-Stars 🔥](#-github-stars-)
 - [Tech Stack](#tech-stack)
 - [Quick Start](#quick-start)
-- [Deployment](#-deployment)
-- [Forking and tweaking](#-forking-and-tweaking)
-- [How to report a bug?](#-how-to-report-a-bug)
-- [Now to propose a new feature?](#-now-to-propose-a-new-feature)
-- [Contributions](#-contributions)
-- [Code of Conduct](#code-of-conduct)
-- [Our top contributors](#-our-top-contributors)
-- [License](#-license)
-- [Contact](#-contact-)
+- [🚢 Deployment](#-deployment)
+- [🛤 Forking and tweaking](#-forking-and-tweaking)
+- [🙋‍♂️ How to report a bug?](#️-how-to-report-a-bug)
+- [💎 Now to propose a new feature?](#-now-to-propose-a-new-feature)
+- [😍 Contributions](#-contributions)
+  - [😎 I want to write some code](#-i-want-to-write-some-code)
+  - [🚦Pay attention to issue labels!](#pay-attention-to-issue-labels)
+    - [🟩 Ready to implement](#-ready-to-implement)
+    - [🟨 Discussion is needed](#-discussion-is-needed)
+    - [🟥 Questionable](#-questionable)
+- [👍 Our top contributors](#-our-top-contributors)
+    - [😎 Iced Latte project creator / Product owner / Tech Lead](#-iced-latte-project-creator--product-owner--tech-lead)
+    - [😇 Project manager](#-project-manager)
+    - [🕵️‍♀️ QA engineers](#️️-qa-engineers)
+    - [⚙️ Backend developers](#️-backend-developers)
+    - [🖥️ Frontend developers](#️-frontend-developers)
+    - [🎨 UX/UI designers](#-uxui-designers)
+    - [📊 Business and system analysts](#-business-and-system-analysts)
+- [👩‍💼 License](#-license)
+- [📞 Contact (Community and Support)](#-contact-community-and-support)
 
 ## Introduction
 
