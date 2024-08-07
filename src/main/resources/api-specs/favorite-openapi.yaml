@@ -11,7 +11,7 @@ info:
 servers:
   - url: "http://localhost:8083"
     description: "Local development server"
-  - url: "http://il.pride.improwised.local/backend"
+  - url: "https://iced-latte.uk/backend"
     description: "Production server"
 
 tags:

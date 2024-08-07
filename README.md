@@ -16,35 +16,24 @@
 </div>
 
 ## Table of Contents
-- [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
-  - [🔥 Github-Stars 🔥](#-github-stars-)
+- [Github-Stars](#Github-Stars)
+
 - [Tech Stack](#tech-stack)
 - [Quick Start](#quick-start)
-- [🚢 Deployment](#-deployment)
-- [🛤 Forking and tweaking](#-forking-and-tweaking)
-- [🙋‍♂️ How to report a bug?](#️-how-to-report-a-bug)
-- [💎 Now to propose a new feature?](#-now-to-propose-a-new-feature)
-- [😍 Contributions](#-contributions)
-  - [😎 I want to write some code](#-i-want-to-write-some-code)
-  - [🚦Pay attention to issue labels!](#pay-attention-to-issue-labels)
-    - [🟩 Ready to implement](#-ready-to-implement)
-    - [🟨 Discussion is needed](#-discussion-is-needed)
-    - [🟥 Questionable](#-questionable)
-- [👍 Our top contributors](#-our-top-contributors)
-    - [😎 Iced Latte project creator / Product owner / Tech Lead](#-iced-latte-project-creator--product-owner--tech-lead)
-    - [😇 Project manager](#-project-manager)
-    - [🕵️‍♀️ QA engineers](#️️-qa-engineers)
-    - [⚙️ Backend developers](#️-backend-developers)
-    - [🖥️ Frontend developers](#️-frontend-developers)
-    - [🎨 UX/UI designers](#-uxui-designers)
-    - [📊 Business and system analysts](#-business-and-system-analysts)
-- [👩‍💼 License](#-license)
-- [📞 Contact (Community and Support)](#-contact-community-and-support)
+- [Deployment](#-deployment)
+- [Forking and tweaking](#-forking-and-tweaking)
+- [How to report a bug?](#-how-to-report-a-bug)
+- [Now to propose a new feature?](#-now-to-propose-a-new-feature)
+- [Contributions](#-contributions)
+- [Code of Conduct](#code-of-conduct)
+- [Our top contributors](#-our-top-contributors)
+- [License](#-license)
+- [Contact](#-contact-)
 
 ## Introduction
 
-**🟥 Iced-Latte (Backend)** is a non-profit sandbox project where a team of IT enthusiasts are working on creating a modern marketplace (http://il.pride.improwised.local/) for selling coffee in order to pump up their soft and hard skills and have fun working on an interesting project.
+**🟥 Iced-Latte (Backend)** is a non-profit sandbox project where a team of IT enthusiasts are working on creating a modern marketplace (https://iced-latte.uk/) for selling coffee in order to pump up their soft and hard skills and have fun working on an interesting project.
 
 🟥 It's crucial to note that we operate without financial support from any party, and we don't compensate anyone financially either. Our efforts are fuelled solely by passion and dedication.
 
@@ -118,7 +107,7 @@ The main point of interaction is the [Issues page](https://github.com/Sunagatov/
 
 The bussiness docs are here [Docs](https://drive.google.com/drive/folders/1vvfXy6n4cz01JjNyTgoYG0g6EIRvyHDw?usp=share_link).
 
-Swagger REST APIs contracts described [here](http://il.pride.improwised.local/backend/api/docs/swagger-ui/index.html).
+Swagger REST APIs contracts described [here](https://iced-latte.uk/backend/api/docs/swagger-ui/index.html).
 
 ### 😎 I want to write some code
 
